@@ -1,0 +1,62 @@
+{
+  "app": {
+    "name": "EventCraft",
+    "tagline": "Organiza eventos inolvidables sin caos"
+  },
+  "nav": {
+    "home": "Descripción general",
+    "projects": "Eventos",
+    "reports": "Presupuestos",
+    "settings": "Cuenta",
+    "language": "Idioma",
+    "logout": "Cerrar sesión"
+  },
+  "hero": {
+    "welcome": "¡Qué bueno verte, {name}!",
+    "subtitle": "Esta semana tienes programados {count} seguimientos con proveedores.",
+    "primary": "Añadir elemento a la lista de verificación",
+    "secondary": "Cronograma del evento"
+  },
+  "stats": {
+    "open": "Elementos pendientes",
+    "done": "Confirmado",
+    "overdue": "Retrasado",
+    "team": "Coordinadores"
+  },
+  "tasks": {
+    "title": "Upcoming checklist",
+    "filter_all": "Todos los elementos",
+    "filter_mine": "Mis tareas",
+    "filter_urgent": "De última hora",
+    "item_1": "Confirmar con el proveedor el montaje de la iluminación del escenario",
+    "item_2": "Finalizar el plano de los asientos de los invitados para la cena de gala",
+    "item_3": "Enviar pases digitales a los ponentes principales",
+    "mark_done": "Marcar como confirmado",
+    "empty": "¡Todos los elementos de la lista de verificación están organizados por ahora!"
+  },
+  "form": {
+    "title": "Añadir a la lista de verificación",
+    "task_label": "Checklist item",
+    "task_placeholder": "¿Qué hay que organizar?",
+    "due_label": "Fecha límite",
+    "priority_label": "Urgencia",
+    "priority_low": "Normal",
+    "priority_high": "Inmediata",
+    "save": "Añadir elemento",
+    "cancel": "Cancelar"
+  },
+  "banner": {
+    "text": "Desbloquea las confirmaciones de asistencia automáticas de los invitados con EventCraft Plus.",
+    "action": "Iniciar prueba de 14 días"
+  },
+  "footer": {
+    "privacy": "Política de privacidad",
+    "terms": "Términos y condiciones",
+    "help": "Mesa de ayuda",
+    "copyright": "© 2026 EventCraft. Todos los derechos reservados."
+  },
+  "messages": {
+    "missing_language": "Lo sentimos, este paquete de idioma aún no está listo.",
+    "saved": "Elemento de la lista de comprobación añadido"
+  }
+}
