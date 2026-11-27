@@ -1,0 +1,62 @@
+{
+  "app": {
+    "name": "EventCraft",
+    "tagline": "Organise unforgettable events without the chaos"
+  },
+  "nav": {
+    "home": "Overview",
+    "projects": "Events",
+    "reports": "Budgets",
+    "settings": "Account",
+    "language": "Language",
+    "logout": "Log out"
+  },
+  "hero": {
+    "welcome": "Good to see you, {name}!",
+    "subtitle": "You have {count} vendor follow-ups lined up this week.",
+    "primary": "Add checklist item",
+    "secondary": "Event timeline"
+  },
+  "stats": {
+    "open": "Pending items",
+    "done": "Confirmed",
+    "overdue": "Delayed",
+    "team": "Coordinators"
+  },
+  "tasks": {
+    "title": "Upcoming checklist",
+    "filter_all": "All items",
+    "filter_mine": "My duties",
+    "filter_urgent": "Last-minute",
+    "item_1": "Confirm stage lighting setup with vendor",
+    "item_2": "Finalise guest seating chart for gala dinner",
+    "item_3": "Send digital passes to keynote speakers",
+    "mark_done": "Mark confirmed",
+    "empty": "Every checklist item is sorted for now!"
+  },
+  "form": {
+    "title": "Add to checklist",
+    "task_label": "Checklist item",
+    "task_placeholder": "What needs to be arranged?",
+    "due_label": "Deadline",
+    "priority_label": "Urgency",
+    "priority_low": "Normal",
+    "priority_high": "Immediate",
+    "save": "Add item",
+    "cancel": "Cancel"
+  },
+  "banner": {
+    "text": "Unlock automated guest RSVPs with EventCraft Plus.",
+    "action": "Start 14-day trial"
+  },
+  "footer": {
+    "privacy": "Privacy policy",
+    "terms": "Terms & conditions",
+    "help": "Support desk",
+    "copyright": "© 2026 EventCraft. All rights reserved."
+  },
+  "messages": {
+    "missing_language": "Sorry, this language pack isn't ready yet.",
+    "saved": "Checklist item added"
+  }
+}

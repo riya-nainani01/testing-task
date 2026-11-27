@@ -1,0 +1,62 @@
+{
+  "app": {
+    "name": "DevPulse",
+    "tagline": "Ship cleaner code, faster together"
+  },
+  "nav": {
+    "home": "Dashboard",
+    "projects": "Repositories",
+    "reports": "Analytics",
+    "settings": "Preferences",
+    "language": "Language",
+    "logout": "Sign out"
+  },
+  "hero": {
+    "welcome": "Hey {name}, ready to build?",
+    "subtitle": "There are {count} tickets scheduled for this sprint.",
+    "primary": "Create issue",
+    "secondary": "Sprint board"
+  },
+  "stats": {
+    "open": "Open issues",
+    "done": "Resolved",
+    "overdue": "Blocked",
+    "team": "Contributors"
+  },
+  "tasks": {
+    "title": "Active sprint items",
+    "filter_all": "Everything",
+    "filter_mine": "My tickets",
+    "filter_urgent": "Critical",
+    "item_1": "Fix login timeout on mobile Safari",
+    "item_2": "Update API rate limit middleware",
+    "item_3": "Write unit tests for checkout webhook",
+    "mark_done": "Resolve issue",
+    "empty": "All sprint tickets are cleared. Nice work!"
+  },
+  "form": {
+    "title": "Log new issue",
+    "task_label": "Issue summary",
+    "task_placeholder": "Describe the bug or feature...",
+    "due_label": "Target date",
+    "priority_label": "Severity",
+    "priority_low": "Minor",
+    "priority_high": "Critical",
+    "save": "Create",
+    "cancel": "Discard"
+  },
+  "banner": {
+    "text": "Upgrade to Pro for unlimited private repositories.",
+    "action": "View plans"
+  },
+  "footer": {
+    "privacy": "Privacy notice",
+    "terms": "User agreement",
+    "help": "Documentation",
+    "copyright": "© 2026 DevPulse Inc. All rights reserved."
+  },
+  "messages": {
+    "missing_language": "Selected language is coming soon.",
+    "saved": "Issue logged successfully"
+  }
+}
