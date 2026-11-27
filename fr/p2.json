@@ -1,0 +1,62 @@
+{
+  "app": {
+    "name": "DevPulse",
+    "tagline": "Livrez du code plus propre, plus vite, ensemble"
+  },
+  "nav": {
+    "home": "Tableau de bord",
+    "projects": "Dépôts",
+    "reports": "Analyses",
+    "settings": "Préférences",
+    "language": "Langue",
+    "logout": "Se déconnecter"
+  },
+  "hero": {
+    "welcome": "Bonjour {name}, prêt à créer ?",
+    "subtitle": "Il y a {count} tickets prévus pour ce sprint.",
+    "primary": "Créer un ticket",
+    "secondary": "Tableau du sprint"
+  },
+  "stats": {
+    "open": "Tickets ouverts",
+    "done": "Résolus",
+    "overdue": "Bloqués",
+    "team": "Contributeurs"
+  },
+  "tasks": {
+    "title": "Éléments actifs du sprint",
+    "filter_all": "Tout",
+    "filter_mine": "Mes tickets",
+    "filter_urgent": "Critique",
+    "item_1": "Corriger le délai d’expiration de la connexion sur Safari mobile",
+    "item_2": "Mettre à jour le middleware de limitation de débit de l’API",
+    "item_3": "Écrire des tests unitaires pour le webhook de paiement",
+    "mark_done": "Résoudre le ticket",
+    "empty": "Tous les tickets du sprint sont résolus. Beau travail !"
+  },
+  "form": {
+    "title": "Signaler un nouveau ticket",
+    "task_label": "Résumé du ticket",
+    "task_placeholder": "Décrivez le bug ou la fonctionnalité...",
+    "due_label": "Date cible",
+    "priority_label": "Gravité",
+    "priority_low": "Mineur",
+    "priority_high": "Critique",
+    "save": "Créer",
+    "cancel": "Abandonner"
+  },
+  "banner": {
+    "text": "Passez à Pro pour bénéficier d’un nombre illimité de dépôts privés.",
+    "action": "Voir les offres"
+  },
+  "footer": {
+    "privacy": "Avis de confidentialité",
+    "terms": "Conditions d’utilisation",
+    "help": "Documentation",
+    "copyright": "© 2026 DevPulse Inc. Tous droits réservés."
+  },
+  "messages": {
+    "missing_language": "La langue sélectionnée sera bientôt disponible.",
+    "saved": "Ticket enregistré avec succès"
+  }
+}
