@@ -24,7 +24,7 @@
     "team": "Coordinadores"
   },
   "tasks": {
-    "title": "Upcoming checklist",
+    "title": "Próximos elementos de la lista de verificación",
     "filter_all": "Todos los elementos",
     "filter_mine": "Mis tareas",
     "filter_urgent": "De última hora",
@@ -36,7 +36,7 @@
   },
   "form": {
     "title": "Añadir a la lista de verificación",
-    "task_label": "Checklist item",
+    "task_label": "Elemento de la lista de verificación",
     "task_placeholder": "¿Qué hay que organizar?",
     "due_label": "Fecha límite",
     "priority_label": "Urgencia",

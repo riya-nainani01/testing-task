@@ -7,7 +7,7 @@
     "home": "अवलोकन",
     "projects": "कार्यक्रम",
     "reports": "बजट",
-    "settings": "Account",
+    "settings": "अकाउंट",
     "language": "भाषा",
     "logout": "लॉग आउट"
   },
@@ -50,7 +50,7 @@
     "action": "14-दिवसीय ट्रायल शुरू करें"
   },
   "footer": {
-    "privacy": "Privacy policy",
+    "privacy": "गोपनीयता नीति",
     "terms": "नियम और शर्तें",
     "help": "सपोर्ट डेस्क",
     "copyright": "© 2026 EventCraft. सर्वाधिकार सुरक्षित।"
