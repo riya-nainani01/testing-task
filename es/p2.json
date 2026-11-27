@@ -1,0 +1,62 @@
+{
+  "app": {
+    "name": "DevPulse",
+    "tagline": "Entrega código más limpio, más rápido, en equipo"
+  },
+  "nav": {
+    "home": "Panel de control",
+    "projects": "Repositorios",
+    "reports": "Analíticas",
+    "settings": "Preferencias",
+    "language": "Idioma",
+    "logout": "Cerrar sesión"
+  },
+  "hero": {
+    "welcome": "Hola {name}, ¿listo para crear?",
+    "subtitle": "Hay {count} tickets programados para este sprint.",
+    "primary": "Crear ticket",
+    "secondary": "Panel del sprint"
+  },
+  "stats": {
+    "open": "Tickets abiertos",
+    "done": "Resueltos",
+    "overdue": "Bloqueados",
+    "team": "Colaboradores"
+  },
+  "tasks": {
+    "title": "Tickets activos del sprint",
+    "filter_all": "Todo",
+    "filter_mine": "Mis tickets",
+    "filter_urgent": "Crítico",
+    "item_1": "Solucionar el tiempo de espera del inicio de sesión en Safari móvil",
+    "item_2": "Actualizar el middleware de límite de solicitudes de API",
+    "item_3": "Escribir pruebas unitarias para el webhook de pago",
+    "mark_done": "Resolver ticket",
+    "empty": "Todos los tickets del sprint están resueltos. ¡Buen trabajo!"
+  },
+  "form": {
+    "title": "Registrar nuevo ticket",
+    "task_label": "Resumen del ticket",
+    "task_placeholder": "Describe el error o la funcionalidad...",
+    "due_label": "Fecha objetivo",
+    "priority_label": "Gravedad",
+    "priority_low": "Menor",
+    "priority_high": "Crítico",
+    "save": "Crear",
+    "cancel": "Descartar"
+  },
+  "banner": {
+    "text": "Actualiza a Pro para obtener repositorios privados ilimitados.",
+    "action": "Ver planes"
+  },
+  "footer": {
+    "privacy": "Aviso de privacidad",
+    "terms": "Acuerdo de usuario",
+    "help": "Documentación",
+    "copyright": "© 2026 DevPulse Inc. Todos los derechos reservados."
+  },
+  "messages": {
+    "missing_language": "El idioma seleccionado estará disponible próximamente.",
+    "saved": "Incidencia registrada correctamente"
+  }
+}
