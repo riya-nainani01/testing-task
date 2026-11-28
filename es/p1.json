@@ -9,7 +9,7 @@
     "reports": "Informes",
     "settings": "Configuración",
     "language": "Idioma",
-    "logout": "Cerrar sesión"
+    "logout": "Salir"
   },
   "hero": {
     "welcome": "¡Te damos la bienvenida de nuevo, {name}!",
